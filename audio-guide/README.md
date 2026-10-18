@@ -52,7 +52,7 @@ GitHub Actions runs lint and Docker build on every push and pull request.
 
 Feature branches + pull requests with peer review. No direct pushes to `main`.
 
-## Project status (Week 7)
+## Project status (Week 6)
 
 - [x] Service skeleton and Docker Compose
 - [x] GitHub Actions CI
@@ -60,7 +60,7 @@ Feature branches + pull requests with peer review. No direct pushes to `main`.
 - [ ] Automated tests
 - [ ] Architecture diagram and API docs
 
-Right now the group is having some technical problems with the files: during the demo, Google Translate outputs error TooManyRequests (so there's an audio file but unplayable), so we'll fix the codes as soon as possible.
+Right now the group is having some technical problems with the files: during the demo, Google Translate (free version) outputs error TooManyRequests (so there's an audio file but unplayable), thus we'll fix the codes as soon as possible.
 
 ## Roadmap
 
