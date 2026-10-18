@@ -60,7 +60,7 @@ Feature branches + pull requests with peer review. No direct pushes to `main`.
 - [ ] Automated tests
 - [ ] Architecture diagram and API docs
 
-Right now the group is having some technical problems with the files: during the demo, Google Translate (free version) outputs error TooManyRequests (so there's an audio file but unplayable), thus we'll fix the codes as soon as possible.
+Right now the group is having some technical problems with the files: during the demo, Google Translate (free version) outputs error 503 TooManyRequests (so there's an audio file in Docker Desktop but unplayable), thus we'll fix the codes as soon as possible.
 
 ## Roadmap
 
