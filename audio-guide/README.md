@@ -60,6 +60,8 @@ Feature branches + pull requests with peer review. No direct pushes to `main`.
 - [ ] Automated tests
 - [ ] Architecture diagram and API docs
 
+Right now the group is having some technical problems with the files: during the demo, Google Translate outputs error TooManyRequests (so there's an audio file but unplayable), so we'll fix the codes as soon as possible.
+
 ## Roadmap
 
 - Message queue (RabbitMQ) for asynchronous processing
