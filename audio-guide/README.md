@@ -52,7 +52,7 @@ GitHub Actions runs lint and Docker build on every push and pull request.
 
 Feature branches + pull requests with peer review. No direct pushes to `main`.
 
-## Project status (Week 6)
+## Project status (Week 7)
 
 - [x] Service skeleton and Docker Compose
 - [x] GitHub Actions CI
