@@ -42,11 +42,11 @@ GitHub Actions runs lint and Docker build on every push and pull request.
 
 ## Team (Group 15)
 
-| Member | GitHub | Responsibilities |
+| Member | MSSV | Responsibilities |
 |---|---|---|
-| Dinh Le Hoang Nghia | @dinhlehoangnghia | gateway, content, Docker Compose |
-| <Name B> | @<username> | translation, tts |
-| <Name C> | @<username> | CI/CD, tests, documentation |
+| Dinh Le Hoang Nghia | 3124411183 | gateway, content, Docker Compose |
+| Pham Hoang Thien Bao | 3124411034 | translation, tts |
+| Nguyen Thanh Quoc Viet | 3124411344 | CI/CD, tests, documentation |
 
 ## Workflow
 
