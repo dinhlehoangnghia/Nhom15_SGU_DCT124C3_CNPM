@@ -81,3 +81,7 @@ npm run build
 ## Nguồn thiết kế
 
 QuickStay Figma người dùng cung cấp: https://www.figma.com/design/vWAjka7MDKh3QWfvERF6Mx/QuickStay?node-id=0-1. Figma plugin báo thiếu quyền chỉnh sửa nên chưa xác minh từng lớp/pixel. Bố cục tham chiếu từ ảnh người dùng và QuickStay của GreatStack. Ảnh hero/logo/ưu đãi từ `https://hb-gs.vercel.app/`, ảnh phòng từ tài nguyên công khai `shantanulanjewar12/Quickstay-hotel-booking-system`, chân dung mẫu từ Unsplash, font Outfit và Playfair Display từ Google Fonts. Tài nguyên lưu cục bộ.
+
+## Vấn đề hiện tại (cập nhật 16/11/2026)
+
+Do đồ án mới chỉ đang dừng lại ở lưu cục bộ (localhost) nên chưa thể sử dụng địa chỉ IP công khai để mã QR hoạt động được, cụ thể người dùng mobile quét mã QR để truy cập vào trang chủ QuickStay bị tình trạng server đợi quá lâu, dẫn đến không truy cập được. Report (bằng tiếng Anh) thì nhóm chỉ vừa mới tạo nhanh, nên cần thêm thời gian để kiểm tra tính liền mạch giữa đồ án thực tế và file report. AI cũng đã chỉ ra một số lổ hổng nghiêm trọng trong file đồ án phải được vá ngay lập tức. Nhóm sẽ cố gắng khắc phục các lỗi này để việc báo cáo cuối kỳ được suôn sẻ vào tuần cuối (23/11).
